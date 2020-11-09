@@ -1,0 +1,23 @@
+body {background-color: whitesmoke;}
+      h1{ font-size:60px; text-align: center; color: blueviolet; 
+        border-bottom: 5px solid gray; background-color: black;
+        margin: 0; font-family: HY그래픽M;
+    }
+    ul {
+        border: 5px solid blueviolet; margin: 0; background-color: beige;
+        font-family: maplestory; padding-left: 0%; list-style-type: none;
+        font-size: 25px; 
+        
+    }
+    a { display: inline;
+    }
+    h2 {
+        background-color: paleturquoise; font-family: maplestory; margin: 0%;
+            }
+
+    .sorry {
+        font-size: 30px; margin-top: 20px; background-color: whitesmoke; 
+    }        
+    p {
+        background-color: whitesmoke;
+    }
